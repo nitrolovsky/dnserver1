@@ -1,0 +1,19 @@
+.body {
+    overflow-y: scroll;
+    padding-top: 50px;
+}
+.bg-image {
+    background-image: url('/images/bg-image-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+.box-shadow {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.35), inset 0px 0px 100px 30px rgba(0, 0, 0, 0.5);
+}
+.shadow {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
+}
+.sw {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

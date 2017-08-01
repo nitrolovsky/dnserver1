@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twbs/bootstrap": "4.0.0-alpha.4",
+        "components/normalize.css": "^3.0",
+        "components/font-awesome": "^4.6",
+        "components/jquery": "^2.2"
+    }
+}
